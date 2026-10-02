@@ -1,0 +1,72 @@
+[
+  {
+    "id": "doc_startup_india_sisfs",
+    "title": "Startup India Seed Fund Scheme (SISFS)",
+    "category": "Government Grants & Seed Funding",
+    "keywords": ["seed fund", "grant", "prototype", "sisfs", "startup india", "dpiit", "commercialization", "early stage"],
+    "content": "The Startup India Seed Fund Scheme (SISFS) provides financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization. Financial support of up to Rs. 20 Lakhs is awarded as a grant for validation of Proof of Concept, or prototype development, or product trials. Up to Rs. 50 Lakhs of investment is provided for market entry, commercialization, or scaling up through convertible debentures or debt or debt-linked instruments. Startups must be DPIIT recognized and incorporated not more than 2 years prior to application. Startups must have a viable business idea with a product or service with a market fit, viable commercialization, and scope of scaling."
+  },
+  {
+    "id": "doc_mudra_pradhan_mantri",
+    "title": "Pradhan Mantri MUDRA Yojana (PMMY) Loan Scheme",
+    "category": "Debt Financing & Working Capital",
+    "keywords": ["mudra", "debt", "loan", "working capital", "shishu", "kishore", "tarun", "collateral free", "banks"],
+    "content": "Pradhan Mantri MUDRA Yojana (PMMY) facilitates micro and small business loans up to Rs. 10 Lakhs without collateral. The scheme is divided into three tiers: (1) Shishu: covers loans up to Rs. 50,000 for early ideation and micro tools; (2) Kishore: covers loans above Rs. 50,000 and up to Rs. 5,00,000 for purchasing equipment or working capital; (3) Tarun: covers loans above Rs. 5,00,000 and up to Rs. 10,00,000 for established small businesses seeking scale and machinery. In recent budget updates, the Tarun Plus tier extends coverage up to Rs. 20 Lakhs for entrepreneurs who have successfully repaid previous Tarun loans. No collateral is required as loans are covered under credit guarantee funds."
+  },
+  {
+    "id": "doc_cgtmse_credit_guarantee",
+    "title": "CGTMSE Collateral-Free Credit Guarantee Scheme",
+    "category": "Debt Financing & Credit Guarantee",
+    "keywords": ["cgtmse", "credit guarantee", "collateral free", "debt financing", "lender", "term loan", "working capital"],
+    "content": "The Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) was set up by Ministry of MSME and SIDBI to provide collateral-free credit to micro and small enterprises. CGTMSE guarantees credit facilities (both fund and non-fund based) extended by Member Lending Institutions (MLIs) up to Rs. 5 Crore per borrower unit. The guarantee coverage ranges from 75% to 85% of the sanctioned amount, significantly lowering default risk for scheduled commercial banks and NBFCs lending to asset-light, early-stage tech ventures that lack physical collateral."
+  },
+  {
+    "id": "doc_msme_udyam_registration",
+    "title": "MSME Udyam Registration & Statutory Benefits",
+    "category": "Compliance & Enterprise Incentives",
+    "keywords": ["msme", "udyam", "compliance", "priority sector lending", "delayed payment", "statutory", "interest subvention"],
+    "content": "Udyam Registration is the official digital identity for Micro, Small, and Medium Enterprises in India. Registering on Udyam unlocks multiple statutory advantages: (1) Priority Sector Lending (PSL) eligibility at concessional commercial bank interest rates; (2) Legal protection under the MSMED Act against delayed payments exceeding 45 days, enforceable via the Samadhaan portal with compound interest at three times bank rate; (3) 50% government subsidy on patent and trademark registration fees; (4) Exemption from tender security deposits (EMD) in public sector procurements."
+  },
+  {
+    "id": "doc_dpiit_tax_exemption_80iac",
+    "title": "DPIIT Recognition & Section 80-IAC Tax Exemption",
+    "category": "Taxation & Legal Structuring",
+    "keywords": ["dpiit", "80-iac", "tax holiday", "angel tax", "section 56", "incorporation", "patent fast track", "ipr"],
+    "content": "Eligible startups recognized by the Department for Promotion of Industry and Internal Trade (DPIIT) can apply for Tax Exemption under Section 80-IAC of the Income Tax Act. If granted, the startup receives a 100% tax holiday on profits for 3 consecutive financial years out of its first 10 years since incorporation (up to Rs. 100 Crore turnover). DPIIT recognition also provides total relief from angel tax scrutiny under Section 56(2)(viib), access to fast-track patent examination at an 80% fee reduction, and self-certification compliance for 9 labor and environmental laws for up to 5 years."
+  },
+  {
+    "id": "doc_dpdp_act_data_privacy",
+    "title": "Digital Personal Data Protection Act (DPDP Act 2023) Compliance",
+    "category": "Legal & Data Governance",
+    "keywords": ["dpdp", "data privacy", "gdpr", "consent", "personal data", "compliance", "legal", "penalties"],
+    "content": "Under the Digital Personal Data Protection Act 2023, startups collecting or processing digital personal data of Indian citizens must act as Data Fiduciaries. Key requirements include: (1) Unambiguous notice and verifiable consent before collecting personal data; (2) Strict purpose limitation and immediate data deletion once the stated purpose is completed; (3) Enhanced security safeguards against data breaches, with mandatory notification to the Data Protection Board and affected users; (4) Prohibitions against processing children's data without parental consent and behavioral tracking. Non-compliance incurs severe administrative penalties up to Rs. 250 Crores."
+  },
+  {
+    "id": "doc_agritech_agristack_nabard",
+    "title": "Agritech Financing, AgriStack & NABARD Catalytic Support",
+    "category": "Sector Framework: AgriTech",
+    "keywords": ["agritech", "agriculture", "farmer", "nabard", "agristack", "crop disease", "kisan credit", "rural tech"],
+    "content": "Agritech startups targeting farmers, rural supply chains, or precision agriculture can tap into specialized institutional frameworks: (1) NABARD's Catalyst Scheme and Agri-Business Incubation Centres provide non-dilutive grant capital and pilot testbeds; (2) AgriSURE Fund provides blend-capital debt and equity funding for high-impact farm-level technology solutions; (3) AgriStack digital public infrastructure enables verified farmer identity, geo-referenced land records, and crop registries via open APIs; (4) Distribution through Farmer Producer Organizations (FPOs) and Primary Agricultural Credit Societies (PACS) allows B2B2C customer acquisition without high direct-to-farmer sales costs."
+  },
+  {
+    "id": "doc_ai_governance_ip_guidelines",
+    "title": "AI Model Governance, IP Ownership & Commercial Liability",
+    "category": "Technology & Legal IP",
+    "keywords": ["ai", "machine learning", "ip", "intellectual property", "computer vision", "liability", "trade secrets", "licensing"],
+    "content": "For startups deploying Generative AI and Computer Vision: (1) Patentability of pure software code is restricted under Section 3(k) of the Indian Patents Act, but AI embedded within novel technical processes or hardware integrations is patentable; proprietary algorithms should be shielded via Trade Secret protocols and NDAs; (2) Commercial liability: If an AI diagnostics or advisory app generates flawed advice (e.g. crop health or financial advice), user agreements must mandate prominent disclaimers affirming AI outputs are advisory and not certified agronomic or financial guarantees; (3) Clean training datasets: Commercial systems must hold explicit commercial licenses for training images and fine-tuning datasets to evade copyright infringement claims."
+  },
+  {
+    "id": "doc_venture_debt_and_equity",
+    "title": "Indian Early-Stage Venture Debt & Angel Investment Dynamics",
+    "category": "Investor & Capital Structuring",
+    "keywords": ["venture capital", "angel", "seed round", "dilution", "safenotes", "convertible", "valuation", "investor"],
+    "content": "Early-stage fundraising in India is typically structured across three instruments: (1) iSAFE (India Simple Agreement for Future Equity) notes, which defer formal valuation negotiations until a priced seed round; (2) Compulsorily Convertible Preference Shares (CCPS), the standard instrument for institutional VC and angel networks providing liquidation preference; (3) Venture Debt (from firms like Trifecta, Alteria, InnoVen), used alongside equity rounds to extend runway by 6 to 12 months with only 1-2% equity dilution warrants. Founders should budget 15-20% equity dilution per priced seed round and maintain at least 60%+ founder ownership through Series A."
+  },
+  {
+    "id": "doc_b2b_vs_b2c_unit_economics",
+    "title": "Startup Unit Economics & Customer Acquisition Cost (CAC) Benchmarks",
+    "category": "Business Strategy & Metrics",
+    "keywords": ["cac", "ltv", "unit economics", "business model", "payback", "churn", "pricing", "retention"],
+    "content": "Sustainable startup scaling hinges on healthy unit economics: (1) LTV/CAC ratio must exceed 3.0x over a 12-to-24-month horizon; (2) CAC Payback Period should ideally remain under 12 months for B2B SaaS and under 6 months for consumer applications; (3) In price-sensitive emerging markets (e.g., Bharat/rural consumers), direct B2C monetization faces severe payment drop-offs; hybrid B2B2C distribution models (partnering with local cooperatives, aggregators, or enterprise sponsors) dramatically compress CAC and reduce churn while enabling subsidized end-user pricing."
+  }
+]
